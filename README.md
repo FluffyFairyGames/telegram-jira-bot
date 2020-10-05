@@ -1,6 +1,12 @@
+#  [Deprecation Notice]
+
+The running service on the Azure function will be deprecated by 31.12.2020 - in order to continue using the tool, please host the service on your own personalised hosted solution. 
+
+## This deprecation only affects users who have been using the service hosted on telegram-ffg public endpoint. If you already self-hosted this service, please ignore the alert. 
+
 #  Instructions
 
-## Deploy to Server
+## Deploy to Server 
  1. Setup a Linux/Windows/OSX Server.
  2. Install [.NET Core](https://www.microsoft.com/net/core).
  3. Clone this Repository or download the latest archieve.
