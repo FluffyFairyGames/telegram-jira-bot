@@ -1,8 +1,8 @@
 #  [Deprecation Notice]
 
-The running service on the Azure function will be deprecated by 31.12.2020 - in order to continue using the tool, please host the service on your own personalised hosted solution. 
+The running service on the Azure function has been deprecated - in order to continue using the tool, please host the service on your own personalised hosted solution. 
 
-## This deprecation only affects users who have been using the service hosted on telegram-ffg public endpoint. If you already self-hosted this service, please ignore the alert. 
+## This deprecation only affects users who had been using the service hosted on telegram-ffg public endpoint. If you already self-hosted this service, please ignore the alert. 
 
 #  Instructions
 
